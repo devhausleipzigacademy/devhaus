@@ -1,0 +1,11 @@
+{
+  "version": "0.0.0",
+  "name": "@repo/schemas",
+  "private": true,
+  "exports": {
+    "./modules": "./modules.ts"
+  },
+  "dependencies": {
+    "zod": "^3.23.8"
+  }
+}
